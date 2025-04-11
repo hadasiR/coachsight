@@ -5,8 +5,8 @@ body {
 }
 
 header {
-    background: #35424a;
-    color: #ffffff;
+    background: #d8bfd8; /* Light purple */
+    color: #4b0082; /* Indigo for contrast */
     padding: 10px 0;
     text-align: center;
 }
@@ -20,13 +20,13 @@ nav {
 }
 
 nav a {
-    color: #ffffff;
+    color: #4b0082; /* Indigo for links */
     text-decoration: none;
     padding: 10px 15px;
 }
 
 nav a:hover {
-    background: #e8491d;
+    background: #dda0dd; /* Plum for hover effect */
 }
 
 .container {
@@ -36,8 +36,8 @@ nav a:hover {
 }
 
 footer {
-    background: #35424a;
-    color: #ffffff;
+    background: #d8bfd8; /* Light purple */
+    color: #4b0082; /* Indigo for contrast */
     text-align: center;
     padding: 10px 0;
     position: relative;
